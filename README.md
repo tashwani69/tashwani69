@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I am Ashwani Tanwar
+### I am a CSE Senior at NSIT, Delhi
 
-<!--
-**tashwani69/tashwani69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me 🚀
+- 🔭 I’m currently pursuing B. Tech. in CSE(AI) at NSIT, Delhi
+- 🌱 I’m currently learning Machine Learning. I am also interested in Web and Android Development.
+- 👯 I’m looking to collaborate on various developments related to MERN Stack, Tensorflow and Deep Learning
+- 💬 Ask me about Web Development, Android Development and a bit of Deep Learning
+- 🌐 Connect with me : 
+<a href="https://www.linkedin.com/in/tashwani69/">
+  <img align="left" width="24px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg"  />
+</a>
+<a href="mailto:tashwani69@gmail.com">
+  <img align="left" width="26px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" />
+</a>
